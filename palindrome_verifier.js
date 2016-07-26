@@ -11,5 +11,5 @@ var palindrome = function (words) {
 }
 
 palindrome("tacocat");
-
 palindrome("stop on no pots");
+palindrome("Stop on no pots");
