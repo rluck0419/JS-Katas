@@ -12,4 +12,4 @@ var palindrome = function (words) {
 
 palindrome("tacocat");
 
-palindrome("Stop on no pots");
+palindrome("stop on no pots");
