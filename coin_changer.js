@@ -11,7 +11,7 @@ get_change = function (n) {
             };
         });
     };
-    console.log(result.join(" "));
+    console.log(result.join(", "));
 };
 
 get_change(50);

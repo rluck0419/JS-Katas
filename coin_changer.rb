@@ -11,7 +11,7 @@ def get_change(n)
       end
     end
   end
-  puts result.join(" ")
+  puts result.join(", ")
 end
 
 get_change(50)
